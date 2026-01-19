@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina Exam - A/L Exam Mastery",
+  "description": "Sri Lanka's premier AI-powered examination platform for Advanced Level students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
